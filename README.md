@@ -7,10 +7,14 @@ Ejercitaremos lógica combinacional y lógica secuencial. Esto lo haremos recrea
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
     * [AYUD02-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/AYUD02_DATA_TYPES_OPERATOR_ATTRIBUTES.pdf):  Guía de ejercicios asociado a la ayudantía. 
-    * [ALU.vhd](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/ALU.vhd): El cual contiene el código VHDL de la ALU utilizado en la ayudantía
-    * [SM.vhd](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/SM.vhd): El cual contiene el código VHDL del bloque SM utilizado en la ayudantía
-    * [RAM.vhd](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/RAM.vhd): El cual contiene el código VHDL del bloque RAM modificado utilizado en la ayudantía  
-    * [Zybo-Z7_Master.xdc](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/Zybo-Z7-Master.xdc):  El cual contiene los constraints de nuestra tarjeta (mapeo de pines)    
-    * [AYU02-ALU.zip](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/AYU02-ALU.zip):  Contine el projecto en vivado desarrollado en el laboratorio    
+    * [ALU.vhd](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/ALU.vhd): El cual contiene el código VHDL de la ALU utilizado en la ayudantía
+    * [control_unit.vdh](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/control_unit.vhd) El cual contiene el código VHDL de la Control Unit utilizado en la ayudantía.
+    * [prog_mem.vdh](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/prog_mem.vhd) El cual contiene el código VHDL de la Program Memory utilizado en la ayudantía.
+    * [instr_mem.vdh](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/instr_mem.vhd) El cual contiene el código VHDL de la Instruction Memory utilizado en la ayudantía.
+    * [BTNS_debouncer.vhd](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/BTNS_debouncer.vhd) El cual contiene el código VHDL del Debouncer utilizado en la ayudantía.
+    * [SM.vhd](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/SM.vhd): El cual contiene el código VHDL del bloque SM utilizado en la ayudantía
+    * [RAM2.vhd](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/RAM2.vhd): El cual contiene el código VHDL del bloque RAM modificado utilizado en la ayudantía  
+    * [Zybo-Z7_Master.xdc](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/Zybo-Z7-Master.xdc):  El cual contiene los constraints de nuestra tarjeta (mapeo de pines)    
+    * [AYU02-Procesador.zip](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/AY03-Procesador.zip):  Contine el projecto en vivado desarrollado en el laboratorio    
    
 3. Durante la ayudantía se busca que desarrollen el ejercicio propuesto de la guía.
