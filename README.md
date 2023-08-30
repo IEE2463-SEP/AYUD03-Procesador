@@ -3,7 +3,7 @@ En esta ayudantía desarrollaremos un mini procesador con su estructura mínima.
 
 Ejercitaremos lógica combinacional y lógica secuencial. Esto lo haremos recreando la estructura mínima de un procesador. Utilizaremos arreglos de módulos hechos en previas ayudantías como ALU, RAM y SM. Se agregaran los módulos de Control Unit, Program Memory, Instruction Memory y Debouncer.
 
-1. Previo a nuestra ayudantía debes revisar este [video](https://youtu.be/h553pa4J9vg) y ejecutarlo en tu casa.
+1. Previo a nuestra ayudantía debes revisar este [video](https://youtu.be/xY11cwGPH3E) y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
     * [AYUD02-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/AYUD02_DATA_TYPES_OPERATOR_ATTRIBUTES.pdf):  Guía de ejercicios asociado a la ayudantía. 
