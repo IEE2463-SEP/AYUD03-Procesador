@@ -6,7 +6,7 @@ Ejercitaremos lógica combinacional y lógica secuencial. Esto lo haremos recrea
 1. Previo a nuestra ayudantía debes revisar este [video](https://youtu.be/xY11cwGPH3E) y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
-    * [AYUD02-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD02-ALU/blob/main/AYUD02_DATA_TYPES_OPERATOR_ATTRIBUTES.pdf):  Guía de ejercicios asociado a la ayudantía. 
+    * [AYUD03-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/AYUD03-Guia%20Ejercicio.pdf):  Guía de ejercicios asociado a la ayudantía. 
     * [ALU.vhd](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/ALU.vhd): El cual contiene el código VHDL de la ALU utilizado en la ayudantía
     * [control_unit.vdh](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/control_unit.vhd) El cual contiene el código VHDL de la Control Unit utilizado en la ayudantía.
     * [prog_mem.vdh](https://github.com/IEE2463-SEP/AYUD03-Procesador/blob/main/prog_mem.vhd) El cual contiene el código VHDL de la Program Memory utilizado en la ayudantía.
